@@ -40,8 +40,6 @@ def spring_is_valid(spring):
 
 
 
-
-
     temp_len = []
     length = []
 
